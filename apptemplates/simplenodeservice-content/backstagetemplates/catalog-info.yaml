@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/FSchnabel2/platform-engineering-demo.git
       title: Github Repo
       icon: github
-    - url: https://super-eureka-wr9gj9rp99vqh75w-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://super-eureka-wr9gj9rp99vqh75w-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
