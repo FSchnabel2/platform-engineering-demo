@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://super-eureka-wr9gj9rp99vqh75w-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://super-eureka-wr9gj9rp99vqh75w-30100.app.github.dev"  
